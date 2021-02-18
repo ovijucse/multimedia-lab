@@ -1,0 +1,107 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2021, Musfika Jahan
+UComments: "2021-2-15: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 558 230777101 27745]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1613373175
+ModificationTime: 1613374946
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 2349 27 10
+BeginChars: 65536 2
+
+StartChar: uni0985
+Encoding: 2437 2437 0
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+431 591 m 4
+ 284 459 479 477 539 564 c 0
+ 599 651 698 435 539 345 c 0
+ 380 255 215 555 215 582 c 0
+ 215 609 185 507 185 507 c 25
+ 185 507 302 324 356 321 c 0
+ 410 318 497 231 635 378 c 0
+ 773 525 692 447 692 447 c 25
+ 692 447 833 291 839 291 c 0
+ 845 291 842 630 842 630 c 25
+ 944 633 l 25
+ 971 717 l 25
+ 71 702 l 25
+ 131 618 l 25
+ 797 636 l 25
+ 791 423 l 25
+ 689 507 l 25
+ 689 507 578 723 431 591 c 4
+EndSplineSet
+EndChar
+
+StartChar: uni0995
+Encoding: 2453 2453 1
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+368 549 m 29
+ 392 552 l 29
+ 389 210 l 29
+ 224 309 l 29
+ 206 345 l 29
+ 368 549 l 29
+26 690 m 25
+ 86 624 l 25
+ 329 624 l 25
+ 113 339 l 25
+ 167 249 l 25
+ 449 75 l 25
+ 449 75 449 531 452 531 c 0
+ 455 531 698 429 629 342 c 0
+ 560 255 683 234 698 282 c 0
+ 713 330 746 447 623 513 c 0
+ 500 579 455 600 455 600 c 25
+ 449 624 l 25
+ 704 618 l 25
+ 785 690 l 25
+ 26 690 l 25
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
